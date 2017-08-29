@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="title_activity_welcome">Game Magazine</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="youtube_api_key">AIzaSyBBtMdFQo2aoCH7PANIZ0MnAPutY9ug0VM</string>
+
+    <!--<string name="facebook_app_id">494345494275455</string>-->
+    <!--<string name="fb_login_protocol_scheme">fb494345494275455</string>-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Gamers!</string>
+    <string name="slide_1_desc">The easiest way to explore your favorites games!</string>
+
+    <string name="slide_2_title">Simple UI</string>
+    <string name="slide_2_desc">An UI that helps you navigate through our magazine effortlessly!</string>
+
+    <string name="slide_3_title">Videos included</string>
+    <string name="slide_3_desc">Game trailers are included to maximize your experience!</string>
+
+    <string name="slide_4_title">Search easily</string>
+    <string name="slide_4_desc">Search for your favorite game just by tapping a button!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
